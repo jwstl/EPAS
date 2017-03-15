@@ -267,6 +267,7 @@ Basic Style
   border: 1px solid #2c3f4c;
   text-align: center;
   display: inline-block;
+  color: black;
 }
 
 .gsi-style-3 li .desc {
