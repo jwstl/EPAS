@@ -1,0 +1,2 @@
+1. Copy the .dll file and place it in C:\Program Files (x86)\K2 blackpearl\ServiceBroker
+2. Run the .kspx to deploy the service broker and the smos.

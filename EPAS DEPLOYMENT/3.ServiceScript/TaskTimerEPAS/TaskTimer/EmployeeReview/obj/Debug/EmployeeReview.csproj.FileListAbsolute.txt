@@ -1,0 +1,8 @@
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Debug\EmployeeReview.exe.config
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Debug\EmployeeReview.exe
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Debug\EmployeeReview.pdb
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Debug\SourceCode.HostClientAPI.dll
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Debug\SourceCode.Workflow.Client.dll
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Debug\EmployeeReview.csprojResolveAssemblyReference.cache
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Debug\EmployeeReview.exe
+c:\users\bob\documents\visual studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Debug\EmployeeReview.pdb

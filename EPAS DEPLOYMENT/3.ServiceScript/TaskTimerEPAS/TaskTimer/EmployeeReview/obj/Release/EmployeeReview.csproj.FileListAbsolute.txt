@@ -1,0 +1,8 @@
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Release\EmployeeReview.exe.config
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Release\EmployeeReview.exe
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Release\EmployeeReview.pdb
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Release\SourceCode.HostClientAPI.dll
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\bin\Release\SourceCode.Workflow.Client.dll
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Release\EmployeeReview.exe
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Release\EmployeeReview.pdb
+C:\Users\Bob\Documents\Visual Studio 2013\Projects\EmployeeReview\EmployeeReview\obj\Release\EmployeeReview.csprojResolveAssemblyReference.cache
